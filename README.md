@@ -5,3 +5,11 @@ Dependencies:\
 1)nltk  
 2)keras  
 3)tensorflow
+
+
+Other requirements: Requirements to run the code can be found in requirements.txt
+
+
+# Running the code:
+To visualize the model: Please run the following command in a terminal in root folder of the project --> \
+'tensorboard --logdir=logs/'
