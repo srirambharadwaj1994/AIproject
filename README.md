@@ -16,4 +16,7 @@ To visualize the model: Please run the following command in a terminal in root f
 The log files will be stored into log folderfor further use.
 
 # My Output and my Log files:
-The Output for 2 and 4 epochs can be found at [Output]()
+The Output for 2 and 4 epochs can be found at [Output](https://drive.google.com/open?id=11h3Xbp_PEwQ_SxoNiItQPAR4ARB36FGn)
+and the [@logs](https://drive.google.com/open?id=1Y4WUiXLa443_pcCGfYc6Jw-WWJjOSWMt)
+
+The model will be saved automatically to the root folder
