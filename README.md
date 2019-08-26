@@ -13,3 +13,7 @@ Other requirements: Requirements to run the code can be found in requirements.tx
 # Running the code:
 To visualize the model: Please run the following command in a terminal in root folder of the project --> \
 'tensorboard --logdir=logs/'
+The log files will be stored into log folderfor further use.
+
+# My Output and my Log files:
+The Output for 2 and 4 epochs can be found at [Output]()
