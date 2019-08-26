@@ -7,7 +7,7 @@ Dependencies:\
 3)tensorflow
 
 
-Other requirements: Requirements to run the code can be found in requirements.txt
+Other requirements: Requirements to run the code can be found in [requirements.txt](requirements.txt)
 
 
 # Running the code:
